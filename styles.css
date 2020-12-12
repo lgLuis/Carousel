@@ -42,11 +42,12 @@ button{
     width: 3rem;
     z-index: 1;
 }
-.button_anterior{
-    left: 5px;
 
+#anterior{
+    left: 5px;
 }
-.button_posterior{
+
+#posterior{
     right: 5px;
 }
 
